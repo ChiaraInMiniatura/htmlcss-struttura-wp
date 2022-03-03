@@ -1,0 +1,27 @@
+*{
+  margin: 0;
+  border: 0;
+  box-sizing: border-box;
+}
+
+.clearflix::after{
+  content:"";
+  display: table;
+  clear: both;
+}
+.container{
+  background-color: red;
+  width: 80%;
+  height: 500px;
+  margin: 20px auto;
+}
+header .top{
+  background-color:rgb(229, 121, 230) ;
+  height: 100px;
+  margin-bottom: 10px;
+}
+header .top-grande{
+  background-color:rgb(225, 214, 122) ;
+  height: 300px;
+  margin-bottom: 10px;
+}
