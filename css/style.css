@@ -25,7 +25,7 @@ header .top{
   height: 100px;
   margin-bottom: 10px;
 }
-header .top-grande{
+header .jumbotron{
   background-color:rgb(225, 214, 122) ;
   height: 300px;
   margin-bottom: 10px;
@@ -55,12 +55,11 @@ header .top-grande{
 .col-center{
   width: 48%;
   height: 350px;
-  margin: 0 10px;
+  margin: 0 1%;
 }
 .col-right{
   width: 25%;
   height: 350px;
-  float: right;
 }
 
 /* footer */
